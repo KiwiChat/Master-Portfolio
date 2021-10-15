@@ -1,6 +1,6 @@
 const greeting = {
     title: "Hi, I'm KiwiChat",
-    logo_name: "Name",
+    logo_name: "KiwiChat",
     logo_img_show: false, // if true than show image(logo) in home page instant of text(logo)
     logo_img: "https://logo.letskhabar.com/name?name=kiwichat",
     full_name: "Custom KiwiChat",
