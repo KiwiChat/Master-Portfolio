@@ -1,9 +1,9 @@
 const greeting = {
-    title: "Hi, I'm Your Name",
+    title: "Hi, I'm KiwiChat",
     logo_name: "Name",
     logo_img_show: false, // if true than show image(logo) in home page instant of text(logo)
-    logo_img: "https://logo.letskhabar.com/name?name=name",
-    full_name: "your name",
+    logo_img: "https://logo.letskhabar.com/name?name=kiwichat",
+    full_name: "Custom KiwiChat",
     email: "email id",
     subTitle:
     "I'm a student pursuing {Course} in {department} from {university}. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage. Apart from that I also love to guide and mentor newbies. I'm currently into Web Development and working on my MERN Website",
